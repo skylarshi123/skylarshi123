@@ -3,7 +3,7 @@
 My name is Skylar Shi! I am a junior studying computer science at the Henry Samueli School of Engineering & Applied Science at UCLA!
 
 🌐 Personal Website: [https://www.skylarshi.com/](https://www.skylarshi.com/) \
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> LinkedIn: [https://www.linkedin.com/in/skylar-shi-614559221/](https://www.linkedin.com/in/skylar-shi-614559221/) \
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> LinkedIn: [https://www.linkedin.com/in/skylarshi/](https://www.linkedin.com/in/skylarshi/) \
 <img src="https://pbs.twimg.com/profile_images/625987202909085696/KKYbLP8y_400x400.jpg" width=20px /> Devpost: [https://devpost.com/skylarshi](https://devpost.com/skylarshi) \
 
 📫 How to reach me: skylarshi@g.ucla.edu\
